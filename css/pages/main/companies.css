@@ -1,12 +1,19 @@
 .companies {
-  margin-top: 140px;
+  padding-top: 140px;
 }
 
 .company__title {
   font-size: 32px;
   font-weight: 700;
-  color: var(--white);
-  margin-bottom: 40px;
+  color: var(--green);
+  padding-top: 140px;
+  text-align: center;
+  padding-bottom: 40px;
+}
+
+.companies__logos {
+  display: flex;
+  justify-content: space-between;
 }
 
 .img__mastercard {

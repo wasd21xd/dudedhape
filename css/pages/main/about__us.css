@@ -1,0 +1,49 @@
+.about__us__container {
+  display: flex;
+  padding-top: 140px;
+}
+
+.about__us__title {
+  font-size: 32px;
+  font-weight: 700;
+  color: var(--green);
+  text-align: center;
+  font-family: sans-serif;
+  line-height: 1.25;
+  padding-top: 46px;
+}
+
+.about__us__text {
+  font-size: 20px;
+  font-weight: 400;
+  color: var(--black);
+  padding-left: 100px;
+  padding-top: 20px;
+}
+
+.about__us__list1__item2 {
+  position: relative;
+}
+
+.about__us__list1__item1 {
+  font-size: 20px;
+  font-weight: 700;
+  color: var(--green);
+  line-height: 1.25;
+  text-align: center;
+  padding-top: 40px;
+}
+
+.about__us__list1__item2::before {
+  content: "";
+  font-size: 18px;
+  line-height: 1.25;
+  color: var(--black);
+  font-weight: 400;
+  text-align: center;
+  padding-top: 14px;
+  background-image: url("img/about__us/shield 3.png");
+  background-size: 100px 100px;
+}
+
+/*# sourceMappingURL=about__us.css.map */

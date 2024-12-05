@@ -5,27 +5,16 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="df212426-41e5-408e-a21a-8f2079253884" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/css/globals/fonts.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/css/globals/index.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/css/globals/null.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/css/globals/variables.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/css/pages/common.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/css/pages/header/header.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/css/pages/header/header.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/css/pages/index.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/css/pages/main/companies.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/css/pages/main/main.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/Group.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/Rectangle 91.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/companies/Frame 13.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/companies/Frame 14.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/companies/Frame 15.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/companies/Frame 63.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/companies/Frame 64.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/companies/Frame 65.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/introduction/DudeShape.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/loupe 1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/indx.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/css/pages/main/about__us.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/about__us/Group 8988.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/about__us/shield 3.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/globals/variables.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/globals/variables.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/pages/index.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/pages/index.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/pages/main/companies.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/pages/main/companies.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/pages/main/companies.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/css/pages/main/companies.css.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/pages/main/companies.scss" beforeDir="false" afterPath="$PROJECT_DIR$/css/pages/main/companies.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/indx.html" beforeDir="false" afterPath="$PROJECT_DIR$/indx.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -57,7 +46,7 @@
   "keyToString": {
     "DefaultHtmlFileTemplate": "HTML File",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "master",
+    "git-widget-placeholder": "main",
     "list.type.of.created.stylesheet": "SCSS",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
@@ -69,6 +58,7 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/img/about__us" />
       <recent name="$PROJECT_DIR$/img/companies" />
       <recent name="$PROJECT_DIR$/img/introduction" />
       <recent name="$PROJECT_DIR$/img" />
@@ -89,7 +79,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1733384868296</updated>
-      <workItem from="1733384869400" duration="7253000" />
+      <workItem from="1733384869400" duration="10144000" />
     </task>
     <servers />
   </component>
