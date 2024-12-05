@@ -1,0 +1,46 @@
+.header {
+  padding-top: 44px;
+  padding-bottom: 44px;
+}
+
+.header__logo {
+  width: 147px;
+  height: 29.04px;
+}
+
+.header__container {
+  display: flex;
+  justify-content: space-between;
+}
+
+.header__logo img {
+  vertical-align: middle;
+}
+
+.header__nav-menu {
+  display: flex;
+  gap: 50px;
+  width: 472px;
+  height: 21px;
+  gap: 50px;
+}
+
+.header__menu {
+  display: flex;
+  gap: 30px;
+  width: 78px;
+  height: 24px;
+}
+
+.nav-menu__item {
+  font-family: sans-serif;
+  gap: 50px;
+}
+
+a {
+  text-decoration: none;
+  color: #333;
+  font-family: sans-serif;
+}
+
+/*# sourceMappingURL=header.css.map */
